@@ -20,5 +20,4 @@
 ![Kris' GitHub stats](https://github-readme-stats.vercel.app/api?username=mmiillmm&show_icons=true&theme=tokyonight)
 <br />
 
-[![My languages C:](https://github-readme-stats.vercel.app/api/top-langs/?username=mmiillmm&layout=compact)](https://github.com/mmiillmm/github-readme-stats)
 
