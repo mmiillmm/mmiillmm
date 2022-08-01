@@ -4,9 +4,9 @@
 ## I'm currently a high school student, learning to be a software engineer!
 
 -  🎃  I'm mostly interested in general coding, machine learning and artificial intelligence!
--  😸  I don't think I have enough knowledge to colaborate with people, but in the future, I'll be sure to try it!
--  🤖  I'm currently learning Python, C#, some HTML and Visual Basic.
--  🥰  You can reach me on Discord: milm#6422
+-  😸  I don't think I have enough knowledge to colaborate with people, but in the future, I'll be sure to try!
+-  🤖  I'm currently learning Python, C# and I know my way really well around HTML and such.
+-  🥰  You can reach me on Twitter: https://twitter.com/iloafuuu
 
 ### Languages and Tools:
 
