@@ -5,7 +5,7 @@
 
 -  🎃  I'm mostly interested in general coding, machine learning and artificial intelligence!
 -  😸  I don't think I have enough knowledge to colaborate with people, but in the future, I'll be sure to try!
--  🤖  I'm currently learning Python, C# and I know my way really well around HTML and such.
+-  🤖  Python, JavaScript, HTML, C# and Visual Basic.
 -  🥰  You can reach me on Twitter: https://twitter.com/iloafuuu
 
 ### Languages and Tools:
