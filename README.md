@@ -1,12 +1,12 @@
-# Helloooo! My name is Kris! 
+# Hey! My name is Kris! 
 <br />
 
 ## I'm currently a high school student, learning to be a software engineer!
 
--  🎃  I'm mostly interested in general coding, machine learning and artificial intelligence!
--  😸  I don't think I have enough knowledge to colaborate with people, but in the future, I'll be sure to try!
--  🤖  Python, JavaScript, HTML, C# and Visual Basic.
--  🥰  You can reach me on Twitter: https://twitter.com/iloafuuu
+-   I'm mostly interested in general coding, machine learning and artificial intelligence!
+-   I don't think I have enough knowledge to colaborate with people, but in the future, I'll be sure to try!
+-   Python, JavaScript, HTML, C# and Visual Basic. I'm learning Java and Rust as of right now, besides C#.
+-   You can reach me on Twitter: https://twitter.com/iloafuuu
 
 ### Languages and Tools:
 
