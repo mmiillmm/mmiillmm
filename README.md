@@ -17,7 +17,7 @@
 <img align="left" alt="Visual Basic" width="40px" src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Rust" width="35px" src="https://rustacean.net/assets/cuddlyferris.png" style="padding-right:10px;"/>
-<img align="left" alt="Java" width="35px" src="https://www.oracle.com/a/ocom/img/c71-java-logo-wht.png"/>
+<img align="left" alt="Java" width="50px" src="https://www.oracle.com/a/ocom/img/c71-java-logo-wht.png"/>
 <br />
 <br />
 <br />
