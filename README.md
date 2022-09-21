@@ -1,24 +1,28 @@
 # Hey! My name is Kris! 
 <br />
 
-## I'm currently a high school student, learning to be a software engineer!
+## Beep Boop
 
--   I'm mostly interested in general coding, machine learning and artificial intelligence!
--   I don't think I have enough knowledge to colaborate with people, but in the future, I'll be sure to try!
--   Python, JavaScript, HTML, C# and Visual Basic. I'm learning Java and Rust as of right now, besides C#.
--   You can reach me on Twitter: https://twitter.com/iloafuuu
+### Languages:
 
-### Languages and Tools:
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="Visual Basic" width="40px" src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" style="padding-right:10px;" />
+<img align="left" alt="Rust" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/rust/rust-plain.svg" style="padding-right:10px;"/>
+<img align="left" alt="Java" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-plain.svg"/>
+
+<br />
+<br />
+
+### IDEs:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
-<img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Visual Basic" width="40px" src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" style="padding-right:10px;" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Rust" width="35px" src="https://rustacean.net/assets/cuddlyferris.png" style="padding-right:10px;"/>
-<img align="left" alt="Java" width="60px" src="https://www.oracle.com/a/ocom/img/c71-java-logo-wht.png"/>
-<br />
+<img align="left" alt="Visual Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" style="padding-right:10px;" />
+<img align="left" alt="PyCharm" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pycharm/pycharm-plain.svg" style="padding-right:10px;" />
+
 <br />
 <br />
 
