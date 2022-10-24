@@ -10,9 +10,6 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-plain.svg" style="padding-right:10px;" />
-<img align="left" alt="Visual Basic" width="40px" src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" style="padding-right:10px;" />
-<img align="left" alt="Rust" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/rust/rust-plain.svg" style="padding-right:10px;"/>
-<img align="left" alt="Java" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-plain.svg"/>
 
 <br />
 <br />
