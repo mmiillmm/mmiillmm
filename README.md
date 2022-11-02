@@ -1,8 +1,5 @@
 # Hey! My name is Kris! 
 <br />
-
-## Beep Boop
-
 ### Languages:
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg" style="padding-right:10px;" title="HTML5" />
