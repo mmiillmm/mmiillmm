@@ -1,10 +1,10 @@
-<h1>Hey there! 🐱‍👓</h1>
+<h1>Hey there! 🤗</h1>
 
 <p><strong>Front-end web developer</strong> based in Hungary. I <strong>love</strong> making stylistic websites and sharing them with the world! Of course, <strong>functionality</strong> comes before <strong>style</strong>. I recently got a 3D printer and so I got into 3D modelling, I'm working with my dad on building various projects with <strong>RaspberryPi</strong> and <strong>Arduino</strong>. I'm also a novince <strong>game developer</strong>! My main "about" website - <strong>http://mmiillmm.me/tds/</strong> - I update it both style and content wise quite regularly. </p>
 
 <br />
 
-<h2>🐱‍🚀 Languages:</h2>
+<h2>💻 Languages:</h2>
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg" style="padding-right:10px;" title="HTML5" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain.svg" style="padding-right:10px;" title="CSS"/>
@@ -16,7 +16,7 @@
 <br />
 <br />
 
-<h3>🐱‍💻 IDEs:</h3>
+<h3>🧑‍💻 IDEs:</h3>
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" title="VSCode"/>
 <img align="left" alt="Visual Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" style="padding-right:10px;" title="Visual Studio"/>
