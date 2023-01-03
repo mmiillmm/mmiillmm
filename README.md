@@ -28,9 +28,9 @@
 
 
 
-![Kris' GitHub stats](https://github-readme-stats.vercel.app/api?username=mmiillmm&show_icons=true&theme=tokyonight)
+![Kris' GitHub stats](https://github-readme-stats.vercel.app/api?username=mmiillmm&show_icons=true&theme=onedark)
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?mmiillmm=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmiillmm&langs_count=8)](https://github.com/mmiillmm/github-readme-stats)
 
 
