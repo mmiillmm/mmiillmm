@@ -22,15 +22,3 @@
 <img align="left" alt="Visual Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" style="padding-right:10px;" title="Visual Studio"/>
 <img align="left" alt="PyCharm" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pycharm/pycharm-plain.svg" title="PyCharm"/>
 <img align="left" alt="PyCharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" style="padding-right:10px;" title="IntellIJ"/>
-
-<br />
-<br />
-
-
-
-![Kris' GitHub stats](https://github-readme-stats.vercel.app/api?username=mmiillmm&show_icons=true&theme=onedark)
-<br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmiillmm&langs_count=8)](https://github.com/mmiillmm/github-readme-stats)
-
-
