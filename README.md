@@ -27,3 +27,7 @@
 <img align="left" alt="PyCharm" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pycharm/pycharm-plain.svg" title="PyCharm"/>
 <img align="left" alt="PyCharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" style="padding-right:10px;" title="IntellIJ"/>
 
+<br />
+<br />
+
+<iframe src="https://giphy.com/embed/vFKqnCdLPNOKc" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-lol-vFKqnCdLPNOKc">via GIPHY</a></p>
