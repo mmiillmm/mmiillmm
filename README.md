@@ -1,4 +1,4 @@
-<h1>Hey there! 🤗</h1>
+<h1>hi :3</h1>
 
 <p><strong>Front-end web developer</strong> based in Hungary. I <strong>love</strong> making stylistic websites and sharing them with the world! Of course, <strong>functionality</strong> comes before <strong>style</strong>. I recently got a 3D printer and so I got into 3D modelling, I'm working with my dad on building various projects with <strong>RaspberryPi</strong> and <strong>Arduino</strong>. I'm also a novince <strong>game developer</strong>, and <strong>astronomer</strong>! </p>
 
