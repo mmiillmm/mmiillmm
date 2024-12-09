@@ -1,6 +1,6 @@
 <h1>hi :3</h1>
 
-<p><strong>Front-end web developer</strong> based in Hungary. I <strong>love</strong> making stylistic websites and sharing them with the world! Of course, <strong>functionality</strong> comes before <strong>style</strong>. I recently got a 3D printer and so I got into 3D modelling, I'm working with my dad on building various projects with <strong>RaspberryPi</strong> and <strong>Arduino</strong>. I'm also a novince <strong>game developer</strong>, and <strong>astronomer</strong>! </p>
+<p><strong>front-end web developer</strong> based in hungary. i <strong>love</strong> making stylistic websites and sharing them with the world! of course, <strong>functionality</strong> comes before <strong>style</strong>. i recently got a 3d printer and so i got into 3d modelling, im working with my dad on building various projects with <strong>raspberrypi</strong> and <strong>arduino</strong>. im also a novince <strong>game developer</strong>, and <strong>astronomer</strong>! 😽 </p> 
 
 <br />
 
@@ -30,4 +30,7 @@
 <br />
 <br />
 
-<iframe src="https://giphy.com/embed/vFKqnCdLPNOKc" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-lol-vFKqnCdLPNOKc">via GIPHY</a></p>
+![cute-cat](https://github.com/user-attachments/assets/3ffb575d-7ab2-47b0-9817-b84bf1c26e54)
+![kitty-cat-sandwich](https://github.com/user-attachments/assets/16a58a74-9987-49e5-aca7-af8de35a6147)
+![cat-dancing-meme-dancing](https://github.com/user-attachments/assets/e4ce26be-7a33-40ef-b784-78269a57b399)
+![cat-kitty](https://github.com/user-attachments/assets/0738cf0f-cbe5-4caa-b84b-a90ebbeddbe4)
