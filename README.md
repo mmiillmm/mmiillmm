@@ -1,6 +1,6 @@
 <h1>hi :3</h1>
 
-<p><strong>front-end web developer</strong> based in hungary. i <strong>love</strong> making stylistic websites and sharing them with the world! of course, <strong>functionality</strong> comes before <strong>style</strong>. i recently got a 3d printer and so i got into 3d modelling, im working with my dad on building various projects with <strong>raspberrypi</strong> and <strong>arduino</strong>. im also a novince <strong>game developer</strong>, and <strong>astronomer</strong>! 😽 </p> 
+ 😽
 
 <br />
 
