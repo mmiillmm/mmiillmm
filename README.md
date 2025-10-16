@@ -7,12 +7,12 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" style="padding-right:10px;" title="JavaScript" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-plain.svg" style="padding-right:10px;" title="Python" />
 <img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-plain.svg" style="padding-right:10px;" title="C#"/>
-<img align="left" alt="Kotlin" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" style="padding-right:10px;" title="Kotlin"/>
-<img align="left" alt="Laravel" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/laravel/laravel-original.svg" style="padding-right:10px;" title="Laravel"/>
-<img align="left" alt="AngularJs" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/angularjs/angularjs-original.svg" style="padding-right:10px;" title="AngularJs"/>
-<img align="left" alt="Apache" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/apache/apache-original.svg" style="padding-right:10px;" title="Apache"/>
-<img align="left" alt="Bootstrap" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;" title="Bootstrap"/>
-<img align="left" alt="Blender" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/blender/blender-original.svg" style="padding-right:10px;" title="Blender"/>
+<img align="left" alt="Kotlin" width="26px" src="https://github.com/user-attachments/assets/9bc7ccbf-3905-48b9-a9a8-02f231c87c56" style="padding-right:10px;" title="Kotlin" />
+<img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/laravel/laravel-original.svg" style="padding-right:10px;" title="Laravel"/>
+<img align="left" alt="AngularJs" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/angularjs/angularjs-original.svg" style="padding-right:10px;" title="AngularJs"/>
+<img align="left" alt="Apache" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/apache/apache-original.svg" style="padding-right:10px;" title="Apache"/>
+<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;" title="Bootstrap"/>
+<img align="left" alt="Blender" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/blender/blender-original.svg" style="padding-right:10px;" title="Blender"/>
 <br />
 <br />
 
